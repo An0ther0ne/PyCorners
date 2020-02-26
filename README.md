@@ -15,7 +15,7 @@ Where:
 * K_size - Aperture parameter of Sobel derivative used.
 * K - Harris detector free parameter in the equation:
       
-![equation_1][img/eq1.png]
+![equation_1](img/eq1.png)
 
 ## Screenshots
 
