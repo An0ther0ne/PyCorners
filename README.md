@@ -7,6 +7,7 @@ Test detection of corners using Harris method from OpenCV
 ## Screenshots
 
 ![ScreenShot_1](img/shot1.png)
+![ScreenShot_4](img/shot4.jpg)
 ![ScreenShot_2](img/shot2.png)
 ![ScreenShot_3](img/shot3.png)
 
